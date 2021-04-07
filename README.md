@@ -7,10 +7,10 @@ Learn
 
 
 <p align="center">
-  <img src="/News.png" width="400">
-  <img src="/Detail.png" width="400">
-  <img src="/Saved.png" width="400">
-  <img src="/Search.png" width="400">
+  <img src="/News.png" width="100">
+  <img src="/Detail.png" width="100">
+  <img src="/Saved.png" width="100">
+  <img src="/Search.png" width="100">
   <br/>
 </p>
 
